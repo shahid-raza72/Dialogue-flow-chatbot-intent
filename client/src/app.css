@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: #222222;
+    color: whitesmoke;
+}
+
+.intent {
+    padding: 20px;
+    border-radius: 4px;
+    margin: 4px;
+    background: rgba(20, 14, 14, 0.534);
+    color: rgb(138, 14, 14);
+}
